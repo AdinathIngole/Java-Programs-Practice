@@ -1,0 +1,11 @@
+package in.example.practice_79;
+
+public enum Days {
+    MONDAY,
+    TUESDAY,
+    WEDNESDAY,
+    THRUSDAY,
+    FRIDAY,
+    SATURDAY,
+    SUNDAY
+}
